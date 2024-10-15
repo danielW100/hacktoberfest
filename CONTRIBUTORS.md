@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Daniel](https://github.com/danielW100)
+- Place: Washington
+- Bio: Student in high school
+- GitHub: (https://github.com/danielW100)
