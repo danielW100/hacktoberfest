@@ -2429,6 +2429,6 @@ Noida
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
 #### Name: [Daniel](https://github.com/danielW100)
-- Place: Washington
-- Bio: Student in high school
-- GitHub: (https://github.com/danielW100)
+- Place: Bellevue, WA, USA
+- Bio: Student in High School
+- GitHub: [DanielW100](https://github.com/danielW100)
